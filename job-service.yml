@@ -4,3 +4,5 @@ server:
 ats:
   environment: development
   message: Hello from ATS Config Server
+  job:
+    max-page-size: 20
