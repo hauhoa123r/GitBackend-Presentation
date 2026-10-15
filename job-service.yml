@@ -6,3 +6,4 @@ ats:
   message: Hello from ATS Config Server
   job:
     max-page-size: 100
+    envir: "DEV"
