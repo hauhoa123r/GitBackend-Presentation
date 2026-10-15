@@ -5,5 +5,5 @@ ats:
   environment: development
   message: Hello from ATS Config Server
   job:
-    max-page-size: 50
+    max-page-size: 25
     envir: "DEV"
